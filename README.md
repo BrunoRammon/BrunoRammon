@@ -23,6 +23,7 @@
   ![Matplotlib](https://img.shields.io/badge/matplotlib-4698C6?style=for-the-badge&logo=matplotlib&logoColor=white)
   ![Seaborn](https://img.shields.io/badge/seaborn-343663?style=for-the-badge&logo=seaborn&logoColor=white)
   ![SciPy](https://img.shields.io/badge/scipy-1E87F0?style=for-the-badge&logo=scipy&logoColor=white)
+  ![Streamlit](https://img.shields.io/badge/streamlit-red?style=for-the-badge&logo=streamlit&logoColor=white)
 
 
 <h5> 💻 &nbsp;Controle de versionamento</h5>
