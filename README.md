@@ -7,7 +7,7 @@
 
 <br/>
 
-<h2> 🛠 &nbsp;Skills</h2>
+<h2> 🤹🏽 &nbsp;Skills</h2>
 
 <h5> 🛠 &nbsp;Linguagens de programação</h5>
 
@@ -16,7 +16,7 @@
   ![POSTGRESQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) 
   
 
-<h5> 🛠 &nbsp;Bibliotecas para Dados</h5>
+<h5> 📚 &nbsp;Bibliotecas para Dados</h5>
 
   ![Pandas](https://img.shields.io/badge/Pandas-130654?style=for-the-badge&logo=pandas&logoColor=white)
   ![Sklearn](https://img.shields.io/badge/SkLearn-ff9c34?style=for-the-badge&logo=scikitlearn&logoColor=white)
@@ -26,7 +26,7 @@
   ![Streamlit](https://img.shields.io/badge/streamlit-red?style=for-the-badge&logo=streamlit&logoColor=white)
 
 
-<h5> 💻 &nbsp;Controle de versionamento</h5>
+<h5> :scroll: &nbsp;Controle de versionamento</h5>
 
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
@@ -39,7 +39,7 @@
 
 <br/>
 
-<h2> 🤝 &nbsp;Projetos </h2> 
+<h2> :triangular_ruler: &nbsp;Projetos </h2> 
 
 #### [ Análise exploratória em base de dados de imóveis em São Paulo, SP: ](https://github.com/BrunoRammon/projeto_tecnicas_programacao_i)<br>
 Neste projeto, foi realizado a limpeza e tratamento (Outliers e dados faltantes) da base de dados de alugueis de imóveis. Além disso, foi feita análises univariada e bivariada dos dados visando extrair insights a partir base. Em parceria com <a href="https://github.com/jorgeluizfigueira">@jorgeluizfigueira</a>.<br>
