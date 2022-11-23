@@ -37,7 +37,27 @@
   ![Linux](https://img.shields.io/badge/Linux-185886?style=for-the-badge&logo=linux&logoColor=white)
   ![MSExcel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-<h2> 🤝🏻 &nbsp;Conecte-se </h2> 
+<h2> 🤝 &nbsp;Projetos </h2> 
+
+#### [ Análise exploratória em base de dados de imóveis em São Paulo, SP: ](https://github.com/BrunoRammon/projeto_tecnicas_programacao_i)<br>
+Neste projeto, foi realizado a limpeza e tratamento de dados (Outliers e dados faltantes) base de dados de alugueis de imóveis. Posteriormente, foi feita análises univariada e bivariada dos dados visando extrair insights a partir base. <br>
+Bibliotecas utilizadas: Pandas, Statistics, Numpy
+
+#### [ Jogo da forca: ](https://github.com/BrunoRammon/hangman_game_project)<br>
+Neste projeto, foi desenvolvido um jogo da forca em python como parte dos requisitos do módulo de Lógica de programação do curso de Python e Dados (Let's Code by Ada). <br>
+Bibliotecas utilizadas: Streamlit
+
+#### [ Comparação da letalidade de Covid-19 entre países: ](https://github.com/BrunoRammon/covid-19_lethality_project)<br>
+Neste projetos foi desenvolvido um dashboard para mostrar a comparação da letalidade da Covid-19 entre países. <br>
+Bibliotecas utilizadas: Pandas, Streamlit, matplotlib
+
+#### [ Sistema de financiamento SAC ou Price: ](https://github.com/BrunoRammon/loan_system_project)<br>
+Um sistema para cálculo de parcelas de financiamento SAC ou Price. <br>
+Bibliotecas utilizadas: Pandas, Streamlit, matplotlib
+
+
+
+<h2> 🤝 &nbsp;Conecte-se </h2> 
 <p align="center">
 <a href="https://www.linkedin.com/in/bruno-r-s-souza/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 <a href="mailto:brunorssouza0@gmail.com?subject=Olá%20Bruno"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
