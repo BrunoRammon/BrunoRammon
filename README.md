@@ -37,6 +37,8 @@
   ![Linux](https://img.shields.io/badge/Linux-185886?style=for-the-badge&logo=linux&logoColor=white)
   ![MSExcel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
+<br/>
+
 <h2> 🤝 &nbsp;Projetos </h2> 
 
 #### [ Análise exploratória em base de dados de imóveis em São Paulo, SP: ](https://github.com/BrunoRammon/projeto_tecnicas_programacao_i)<br>
@@ -55,7 +57,7 @@ Bibliotecas utilizadas: Pandas, Streamlit, matplotlib
 Um sistema para cálculo de parcelas de financiamento SAC ou Price. <br>
 Bibliotecas utilizadas: Pandas, Streamlit, matplotlib
 
-
+<br/>
 
 <h2> 🤝 &nbsp;Conecte-se </h2> 
 <p align="center">
