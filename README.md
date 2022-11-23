@@ -3,8 +3,7 @@
 
 - 👋 Olá, eu sou @BrunoRammon
 - 👀 Eu tenho interesse em Machine Learning
-- 🌱 Atualmente sou estudante de Ciência/Análise de dados
-- 📫 Email: brunorssouza0@gmail.com
+- 🌱 Atualmente estou em transição de carreira para Ciência/Análise de dados
 
 <br/>
 
