@@ -3,7 +3,7 @@
 
 - 👋 Olá, eu sou @BrunoRammon
 - 👀 Eu tenho interesse em Machine Learning
-- 🌱 Atualmente estou em transição de carreira para Ciência/Análise de dados
+- 🌱 Atualmente, estou em transição de carreira para Ciência/Análise de dados
 
 <br/>
 
