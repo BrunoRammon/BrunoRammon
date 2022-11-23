@@ -42,8 +42,9 @@
 <h2> 🤝 &nbsp;Projetos </h2> 
 
 #### [ Análise exploratória em base de dados de imóveis em São Paulo, SP: ](https://github.com/BrunoRammon/projeto_tecnicas_programacao_i)<br>
-Neste projeto, foi realizado a limpeza e tratamento de dados (Outliers e dados faltantes) base de dados de alugueis de imóveis. Posteriormente, foi feita análises univariada e bivariada dos dados visando extrair insights a partir base. <br>
+Neste projeto, foi realizado a limpeza e tratamento (Outliers e dados faltantes) da base de dados de alugueis de imóveis. Além disso, foi feita análises univariada e bivariada dos dados visando extrair insights a partir base. Em parceria com <a href="https://github.com/jorgeluizfigueira">@jorgeluizfigueira</a>.<br>
 Bibliotecas utilizadas: Pandas, Statistics, Numpy
+
 
 #### [ Jogo da forca: ](https://github.com/BrunoRammon/hangman_game_project)<br>
 Neste projeto, foi desenvolvido um jogo da forca em python como parte dos requisitos do módulo de Lógica de programação do curso de Python e Dados (Let's Code by Ada). <br>
