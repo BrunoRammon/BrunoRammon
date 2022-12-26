@@ -18,11 +18,26 @@
 
 <h5> 📚 &nbsp;Bibliotecas para Dados</h5>
 
+- Manipulação 
+
   ![Pandas](https://img.shields.io/badge/Pandas-130654?style=for-the-badge&logo=pandas&logoColor=white)
-  ![Sklearn](https://img.shields.io/badge/SkLearn-ff9c34?style=for-the-badge&logo=scikitlearn&logoColor=white)
+
+- Visualização
+
   ![Matplotlib](https://img.shields.io/badge/matplotlib-4698C6?style=for-the-badge&logo=matplotlib&logoColor=white)
   ![Seaborn](https://img.shields.io/badge/seaborn-343663?style=for-the-badge&logo=seaborn&logoColor=white)
+  ![Plotly](https://img.shields.io/badge/plotly-100000?style=for-the-badge&logo=plotly&logoColor=white)
+  
+- Modelagem
+
+  ![Sklearn](https://img.shields.io/badge/SkLearn-ff9c34?style=for-the-badge&logo=scikitlearn&logoColor=white)
+  
+- Análise Estatística
+
   ![SciPy](https://img.shields.io/badge/scipy-1E87F0?style=for-the-badge&logo=scipy&logoColor=white)
+
+- Deployment
+
   ![Streamlit](https://img.shields.io/badge/streamlit-red?style=for-the-badge&logo=streamlit&logoColor=white)
 
 
