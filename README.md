@@ -18,12 +18,62 @@
 
 <h5> 📚 &nbsp;Bibliotecas para Dados</h5>
 
-- Manipulação 
+<table>
+    <tr>
+        <td>Manipulação</td>
+        <td> 
+          <a href="https://img.shields.io/badge/Pandas-130654?style=for-the-badge&amp;logo=pandas&amp;logoColor=white">
+            <img src="https://img.shields.io/badge/Pandas-130654?style=for-the-badge&amp;logo=pandas&amp;logoColor=white" alt="Pandas" />
+          </a> 
+        </td>
+    </tr>
+    <tr>
+        <td>Visualização</td>
+        <td> 
+          <a href="https://img.shields.io/badge/matplotlib-4698C6?style=for-the-badge&amp;logo=matplotlib&amp;logoColor=white">
+            <img src="https://img.shields.io/badge/matplotlib-4698C6?style=for-the-badge&amp;logo=matplotlib&amp;logoColor=white" alt="matplotlib" />
+          </a><br>
+          <a href="https://img.shields.io/badge/seaborn-343663?style=for-the-badge&amp;logo=seaborn&amp;logoColor=white">
+            <img src="https://img.shields.io/badge/seaborn-343663?style=for-the-badge&amp;logo=seaborn&amp;logoColor=white" alt="matplotlib" />
+          </a><br>
+          <a href="plotly-100000?style=for-the-badge&amp;logo=plotly&amp;logoColor=white">
+            <img src="https://img.shields.io/badge/plotly-100000?style=for-the-badge&amp;logo=plotly&amp;logoColor=white;logo=seaborn&amp;logoColor=white" alt="matplotlib" />
+          </a>
+    </tr>
+    <tr>
+        <td>Modelagem</td>
+        <td>
+          <a href="https://img.shields.io/badge/SkLearn-ff9c34?style=for-the-badge&amp;logo=scikitlearn&amp;logoColor=white">
+            <img src="https://img.shields.io/badge/SkLearn-ff9c34?style=for-the-badge&amp;logo=scikitlearn&amp;logoColor=white" />
+          </a><br>
+          <a href="https://img.shields.io/badge/tensorflow-316192?style=for-the-badge&amp;logo=tensorflow&amp;logoColor=white">
+            <img src="https://img.shields.io/badge/tensorflow-316192?style=for-the-badge&amp;logo=tensorflow&amp;logoColor=white" />
+          </a>
+    </tr>
+    <tr>
+        <td>Análise Estatística</td>
+        <td>
+          <a href="https://img.shields.io/badge/scipy-1E87F0?style=for-the-badge&amp;logo=scipy&amp;logoColor=white">
+            <img src="https://img.shields.io/badge/scipy-1E87F0?style=for-the-badge&amp;logo=scipy&amp;logoColor=white" />
+          </a>
+        </td>
+    </tr>
+    <tr>
+        <td>Deployment</td>
+        <td>
+          <a href="https://img.shields.io/badge/streamlit-red?style=for-the-badge&amp;logo=streamlit&amp;logoColor=white">
+            <img src="https://img.shields.io/badge/streamlit-red?style=for-the-badge&amp;logo=streamlit&amp;logoColor=white" />
+          </a>
+        </td>
+    </tr>
+</table>
+
+
+<!-- - Manipulação 
 
   ![Pandas](https://img.shields.io/badge/Pandas-130654?style=for-the-badge&logo=pandas&logoColor=white)
 
 - Visualização
-
   ![Matplotlib](https://img.shields.io/badge/matplotlib-4698C6?style=for-the-badge&logo=matplotlib&logoColor=white)
   ![Seaborn](https://img.shields.io/badge/seaborn-343663?style=for-the-badge&logo=seaborn&logoColor=white)
   ![Plotly](https://img.shields.io/badge/plotly-100000?style=for-the-badge&logo=plotly&logoColor=white)
@@ -39,7 +89,7 @@
 
 - Deployment
 
-  ![Streamlit](https://img.shields.io/badge/streamlit-red?style=for-the-badge&logo=streamlit&logoColor=white)
+  ![Streamlit](https://img.shields.io/badge/streamlit-red?style=for-the-badge&logo=streamlit&logoColor=white) -->
 
 
 <h5> :scroll: &nbsp;Controle de versionamento</h5>
