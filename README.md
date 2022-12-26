@@ -2,7 +2,7 @@
 <h2> :man: &nbsp;Sobre mim </h2>
 
 - 👋 Olá, eu sou @BrunoRammon
-- 👀 Eu tenho interesse em Machine Learning
+- 👀 Eu tenho interesse em Ciência de dados e Machine Learning
 - 🌱 Atualmente, estou em transição de carreira para Ciência/Análise de dados
 
 <br/>
@@ -31,6 +31,7 @@
 - Modelagem
 
   ![Sklearn](https://img.shields.io/badge/SkLearn-ff9c34?style=for-the-badge&logo=scikitlearn&logoColor=white)
+  ![TensorFlow](https://img.shields.io/badge/tensorflow-316192?style=for-the-badge&logo=tensorflow&logoColor=white)
   
 - Análise Estatística
 
