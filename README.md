@@ -41,6 +41,13 @@
 
 <h2> :triangular_ruler: &nbsp;Projetos </h2> 
 
+
+#### [ Análise de algoritmos de aprendizado supervisionado em um problema de classificação de raças de cães e gatos ](https://github.com/BrunoRammon/gato-cachorro_classificacao_de_racas)<br>
+Neste projeto, foi realizado a análise de algoritmos de aprendizado supervisionado em um problema de classificação de raças de cães e gatos. Os algoritmos testados foram: KNN, árvore de decisão, Naive Bayes, Rede Neural. Além disso, foram testados alguns comitês de classificação: Bagging, Ada Boost, Random Forest e Stacking. Realizado em parceria com Kelmo.<br>
+Principais bibliotecas utilizadas: pandas, sklearn, skimage, scikit_posthocs, scipy <br>
+Hard-skills: classificação de imagens, treinamento e validação de algoritmos de ML, técnicas de amostragem, testes estatísticos (Friedman e Posthoc-Nemenyi)<br>
+
+
 #### [ Análise exploratória em base de dados de imóveis em São Paulo, SP: ](https://github.com/BrunoRammon/projeto_tecnicas_programacao_i)<br>
 Neste projeto, foi realizado a limpeza e tratamento (Outliers e dados faltantes) da base de dados de alugueis de imóveis. Além disso, foi feita análises univariada e bivariada dos dados visando extrair insights a partir base. Em parceria com <a href="https://github.com/jorgeluizfigueira">@jorgeluizfigueira</a>.<br>
 Bibliotecas utilizadas: Pandas, Statistics, Numpy
