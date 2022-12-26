@@ -68,10 +68,8 @@ Bibliotecas utilizadas: Pandas, Streamlit, matplotlib
 <br/>
 
 <h2> 🤝 &nbsp;Conecte-se </h2> 
-<p align="center">
 <a href="https://www.linkedin.com/in/bruno-r-s-souza/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 <a href="mailto:brunorssouza0@gmail.com?subject=Olá%20Bruno"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-</p>
 <!---
 BrunoRammon/BrunoRammon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
