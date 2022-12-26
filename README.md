@@ -44,7 +44,7 @@
 
 #### [ Análise de algoritmos de aprendizado supervisionado em um problema de classificação de raças de cães e gatos ](https://github.com/BrunoRammon/gato-cachorro_classificacao_de_racas)<br>
 Neste projeto, foi realizado a análise de algoritmos de aprendizado supervisionado em um problema de classificação de raças de cães e gatos. Os algoritmos testados foram: KNN, árvore de decisão, Naive Bayes, Rede Neural. Além disso, foram testados alguns comitês de classificação: Bagging, Ada Boost, Random Forest e Stacking. Realizado em parceria com Kelmo.<br>
-Principais bibliotecas utilizadas: pandas, sklearn, skimage, scikit_posthocs, scipy <br>
+Principais bibliotecas utilizadas: pandas, sklearn, skimage, scikit_posthocs, scipy, plotly <br>
 Hard-skills: classificação de imagens, treinamento e validação de algoritmos de ML, técnicas de amostragem, testes estatísticos (Friedman e Posthoc-Nemenyi)<br>
 
 
