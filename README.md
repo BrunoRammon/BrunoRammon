@@ -29,7 +29,7 @@
     </tr>
     <tr>
         <td>Visualização</td>
-        <td> 
+        <td style="text-align:center"> 
           <a href="https://img.shields.io/badge/matplotlib-4698C6?style=for-the-badge&amp;logo=matplotlib&amp;logoColor=white">
             <img src="https://img.shields.io/badge/matplotlib-4698C6?style=for-the-badge&amp;logo=matplotlib&amp;logoColor=white" alt="matplotlib" />
           </a><br>
@@ -67,7 +67,6 @@
         </td>
     </tr>
 </table>
-
 
 <!-- - Manipulação 
 
