@@ -116,6 +116,10 @@ Hard-skills: classificação de imagens, treinamento e validação de algoritmos
 Neste projeto, foi realizado a limpeza e tratamento (Outliers e dados faltantes) da base de dados relacionada ao mercado de dados no brasil. Além disso, foi feita a construção de dashboard para verificação de hipóteses levantadas sobre os dados. Em parceria com <a href="https://github.com/jorgeluizfigueira">@jorgeluizfigueira</a>.<br>
 Bibliotecas utilizadas: Pandas, Streamlit, Seaborn, Matplotlib, Plotly
 
+#### [ Obtenção e armazenamento de músicas pela API do Spotify: ](https://github.com/BrunoRammon/BD-spotifyAPI)<br>
+Neste projeto, foi realizado a obtenção de dados de músicas, albuns e artistas a partir da API do Spotify. Posteriomente, tais dados foram salvos em um banco de dados criado com o SGBD PostgreSQL através de uma conexão com o banco utilizando a biblioteca Psycopg2 do Python.<br>
+Bibliotecas utilizadas: Pandas, Streamlit, PostgreSQL, Psycopg2, SpotifyAPI, JSON
+
 #### [ Análise exploratória em base de dados de imóveis em São Paulo, SP: ](https://github.com/BrunoRammon/projeto_tecnicas_programacao_i)<br>
 Neste projeto, foi realizado a limpeza e tratamento (Outliers e dados faltantes) da base de dados de alugueis de imóveis. Além disso, foi feita análises univariada e bivariada dos dados visando extrair insights a partir base. Em parceria com <a href="https://github.com/jorgeluizfigueira">@jorgeluizfigueira</a>.<br>
 Bibliotecas utilizadas: Pandas, Statistics, Numpy
