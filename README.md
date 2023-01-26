@@ -112,6 +112,9 @@ Neste projeto, foi realizado a análise de algoritmos de aprendizado supervision
 Principais bibliotecas utilizadas: pandas, sklearn, skimage, scikit_posthocs, scipy, plotly <br>
 Hard-skills: classificação de imagens, treinamento e validação de algoritmos de ML, técnicas de amostragem, testes estatísticos (Friedman e Posthoc-Nemenyi)<br>
 
+#### [ Análise exploratória do mercado de dados no Brasil: ](https://github.com/BrunoRammon/projeto_tecnicas_programacao_ii-)<br>
+Neste projeto, foi realizado a limpeza e tratamento (Outliers e dados faltantes) da base de dados relacionada ao mercado de dados no brasil. Além disso, foi feita a construção de dashboard para verificação de hipóteses levantadas sobre os dados. Em parceria com <a href="https://github.com/jorgeluizfigueira">@jorgeluizfigueira</a>.<br>
+Bibliotecas utilizadas: Pandas, Streamlit, Seaborn, Matplotlib, Plotly
 
 #### [ Análise exploratória em base de dados de imóveis em São Paulo, SP: ](https://github.com/BrunoRammon/projeto_tecnicas_programacao_i)<br>
 Neste projeto, foi realizado a limpeza e tratamento (Outliers e dados faltantes) da base de dados de alugueis de imóveis. Além disso, foi feita análises univariada e bivariada dos dados visando extrair insights a partir base. Em parceria com <a href="https://github.com/jorgeluizfigueira">@jorgeluizfigueira</a>.<br>
@@ -124,7 +127,7 @@ Bibliotecas utilizadas: Streamlit
 
 #### [ Comparação da letalidade de Covid-19 entre países: ](https://github.com/BrunoRammon/covid-19_lethality_project)<br>
 Neste projetos foi desenvolvido um dashboard para mostrar a comparação da letalidade da Covid-19 entre países. <br>
-Bibliotecas utilizadas: Pandas, Streamlit, matplotlib
+Bibliotecas utilizadas: Pandas, matplotlib, jupyter notebook
 
 #### [ Sistema de financiamento SAC ou Price: ](https://github.com/BrunoRammon/loan_system_project)<br>
 Um sistema para cálculo de parcelas de financiamento SAC ou Price. <br>
