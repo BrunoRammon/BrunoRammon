@@ -112,7 +112,7 @@ Neste projeto, foi realizado a análise de algoritmos de aprendizado supervision
 Principais bibliotecas utilizadas: pandas, sklearn, skimage, scikit_posthocs, scipy, plotly <br>
 Hard-skills: classificação de imagens, treinamento e validação de algoritmos de ML, técnicas de amostragem, testes estatísticos (Friedman e Posthoc-Nemenyi)<br>
 
-#### [ Análise exploratória do mercado de dados no Brasil: ](https://github.com/BrunoRammon/projeto_tecnicas_programacao_ii-)<br>
+#### [ Análise da situação do mercado de dados no Brasil: ](https://github.com/BrunoRammon/projeto_tecnicas_programacao_ii-)<br>
 Neste projeto, foi realizado a limpeza e tratamento (Outliers e dados faltantes) da base de dados relacionada ao mercado de dados no brasil. Além disso, foi feita a construção de dashboard para verificação de hipóteses levantadas sobre os dados. Em parceria com <a href="https://github.com/jorgeluizfigueira">@jorgeluizfigueira</a>.<br>
 Bibliotecas utilizadas: Pandas, Streamlit, Seaborn, Matplotlib, Plotly
 
