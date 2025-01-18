@@ -137,7 +137,7 @@
 
 <h2> :triangular_ruler: &nbsp;Projetos </h2>
 
-#### [ Sistema de previsão de churn em vendas nos próximos 6 meses ](https://github.com/BrunoRammon/gato-cachorro_classificacao_de_racas)<br>
+#### [ Sistema de previsão de churn em vendas nos próximos 6 meses ](https://github.com/BrunoRammon/olist_project)<br>
 Neste projeto, foi feito um sistema de machine learning (com códigos para treinamento e inferência) para prever o churn de vendedores da olist, isto é, o modelo provê um score referente a probabilidade de vendedor deixar de vender nos próximos 6 meses. Assim, entre outras finalidades, esse score pode ser usado para:
 - promover ações de incentivo aos vendedores da plataforma de forma mais direcionada
 - educar os vendedores da plataforma para que eles possam tomar ações para melhorar a chance de conversão de vendas na plataforma<br>
