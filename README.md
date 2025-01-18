@@ -22,32 +22,71 @@
     <tr>
         <td>Manipulação</td>
         <td> 
-          <a href="https://img.shields.io/badge/Pandas-130654?style=for-the-badge&amp;logo=pandas&amp;logoColor=white">
-            <img src="https://img.shields.io/badge/Pandas-130654?style=for-the-badge&amp;logo=pandas&amp;logoColor=white" alt="Pandas" />
-          </a> 
+          <a href="https://pandas.pydata.org/">
+            <img src="https://img.shields.io/badge/Pandas-130654?style=for-the-badge&amp;logo=pandas&amp;logoColor=white"/>
+          </a> <br>
+          <a href="https://spark.apache.org/docs/latest/api/python/index.html">
+            <img src="https://img.shields.io/badge/PySpark-FF5C83?style=for-the-badge&logo=Spark AR&logoColor=white"/>
+          </a>
+        </td>
+    </tr>
+    <tr>
+        <td>Modelagem</td>
+        <td>
+          <a href="https://scikit-learn.org/stable/">
+            <img src="https://img.shields.io/badge/SkLearn-ff9c34?style=for-the-badge&amp;logo=scikitlearn&amp;logoColor=white" />
+          </a><br>
+          <a href="https://lightgbm.readthedocs.io/en/stable/">
+            <img src="https://img.shields.io/badge/LightGBM-red?style=for-the-badge&amp;logo=LightGBM-red&amp;logoColor=white" />
+          </a><br>
+          <a href="https://xgboost.readthedocs.io/en/stable/">
+            <img src="https://img.shields.io/badge/XGBoost-blue?style=for-the-badge&amp;logo=XGBoost&amp;logoColor=white" />
+          </a><br>
+          <a href="https://feature-engine.trainindata.com/">
+            <img src="https://img.shields.io/badge/Feature Engine-gree?style=for-the-badge&amp;logo=feature-engine&amp;logoColor=white" />
+          </a><br>
+          <a href="https://www.tensorflow.org/">
+            <img src="https://img.shields.io/badge/tensorflow-316192?style=for-the-badge&amp;logo=tensorflow&amp;logoColor=white" />
+          </a>
+    </tr>
+    <tr>
+        <td>Interpretacao de variáveis</td>
+        <td>
+          <a href="https://shap.readthedocs.io/en/latest/">
+            <img src="https://img.shields.io/badge/Shap-pink?style=for-the-badge&amp;logo=Shap&amp;logoColor=white" />
+          </a>
+        </td>
+    </tr>
+    <tr>
+        <td>Orquestração</td>
+        <td>
+          <a href="https://kedro.org/">
+            <img src="https://img.shields.io/badge/kedro-ffc900?style=for-the-badge&amp;logo=kedro;logoColor=white" />
+          </a>
+        </td>
+    </tr>
+    <tr>
+        <td>Deployment</td>
+        <td>        
+          <a href="https://www.docker.com/">
+            <img src="https://img.shields.io/badge/Docker-blue?style=for-the-badge&amp;logo=Docker&amp;logoColor=white" />
+          </a><br>
+          <a href="https://img.shields.io/badge/streamlit-red?style=for-the-badge&amp;logo=streamlit&amp;logoColor=white">
+            <img src="https://img.shields.io/badge/streamlit-red?style=for-the-badge&amp;logo=streamlit&amp;logoColor=white" />
+          </a>
         </td>
     </tr>
     <tr>
         <td>Visualização</td>
         <td style="text-align:center"> 
-          <a href="https://img.shields.io/badge/matplotlib-4698C6?style=for-the-badge&amp;logo=matplotlib&amp;logoColor=white">
-            <img src="https://img.shields.io/badge/matplotlib-4698C6?style=for-the-badge&amp;logo=matplotlib&amp;logoColor=white" alt="matplotlib" />
+          <a href="https://matplotlib.org/">
+            <img src="https://img.shields.io/badge/matplotlib-4698C6?style=for-the-badge&amp;logo=Matplotlib&amp;logoColor=white" alt="matplotlib"/>
           </a><br>
-          <a href="https://img.shields.io/badge/seaborn-343663?style=for-the-badge&amp;logo=seaborn&amp;logoColor=white">
-            <img src="https://img.shields.io/badge/seaborn-343663?style=for-the-badge&amp;logo=seaborn&amp;logoColor=white" alt="matplotlib" />
+          <a href="https://seaborn.pydata.org/">
+            <img src="https://img.shields.io/badge/seaborn-343663?style=for-the-badge&amp;logo=seaborn&amp;logoColor=white"/>
           </a><br>
-          <a href="plotly-100000?style=for-the-badge&amp;logo=plotly&amp;logoColor=white">
-            <img src="https://img.shields.io/badge/plotly-100000?style=for-the-badge&amp;logo=plotly&amp;logoColor=white;logo=seaborn&amp;logoColor=white" alt="matplotlib" />
-          </a>
-    </tr>
-    <tr>
-        <td>Modelagem</td>
-        <td>
-          <a href="https://img.shields.io/badge/SkLearn-ff9c34?style=for-the-badge&amp;logo=scikitlearn&amp;logoColor=white">
-            <img src="https://img.shields.io/badge/SkLearn-ff9c34?style=for-the-badge&amp;logo=scikitlearn&amp;logoColor=white" />
-          </a><br>
-          <a href="https://img.shields.io/badge/tensorflow-316192?style=for-the-badge&amp;logo=tensorflow&amp;logoColor=white">
-            <img src="https://img.shields.io/badge/tensorflow-316192?style=for-the-badge&amp;logo=tensorflow&amp;logoColor=white" />
+          <a href="https://plotly.com/">
+            <img src="https://img.shields.io/badge/plotly-100000?style=for-the-badge&amp;logo=plotly&amp;logoColor=white;logo=seaborn&amp;logoColor=white"/>
           </a>
     </tr>
     <tr>
@@ -55,22 +94,6 @@
         <td>
           <a href="https://img.shields.io/badge/scipy-1E87F0?style=for-the-badge&amp;logo=scipy&amp;logoColor=white">
             <img src="https://img.shields.io/badge/scipy-1E87F0?style=for-the-badge&amp;logo=scipy&amp;logoColor=white" />
-          </a>
-        </td>
-    </tr>
-    <tr>
-        <td>Deployment</td>
-        <td>
-          <a href="https://img.shields.io/badge/streamlit-red?style=for-the-badge&amp;logo=streamlit&amp;logoColor=white">
-            <img src="https://img.shields.io/badge/streamlit-red?style=for-the-badge&amp;logo=streamlit&amp;logoColor=white" />
-          </a>
-        </td>
-    </tr>
-    <tr>
-        <td>Engine</td>
-        <td>
-          <a href="https://img.shields.io/badge/apache spark-F55B14?style=for-the-badge&amp;logo=spark&amp;logoColor=white">
-            <img src="https://img.shields.io/badge/apache spark-F55B14?style=for-the-badge&amp;logo=spark&amp;logoColor=white" />
           </a>
         </td>
     </tr>
