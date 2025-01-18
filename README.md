@@ -112,13 +112,15 @@
 
 <br/>
 
-<h2> :triangular_ruler: &nbsp;Projetos </h2> 
+<h2> :triangular_ruler: &nbsp;Projetos </h2>
 
+#### [ Sistema de previsão de churn em vendas nos próximos 6 meses ](https://github.com/BrunoRammon/gato-cachorro_classificacao_de_racas)<br>
+Neste projeto, foi feito um sistema de machine learning (com códigos para treinamento e inferência) para prever o churn de vendedores da olist, isto é, o modelo provê um score referente a probabilidade de vendedor deixar de vender nos próximos 6 meses. Assim, entre outras finalidades, esse score pode ser usado para:
+- promover ações de incentivo aos vendedores da plataforma de forma mais direcionada
+- educar os vendedores da plataforma para que eles possam tomar ações para melhorar a chance de conversão de vendas na plataforma<br>
+Principais bibliotecas utilizadas: pandas, sklearn, kedro, lightgbm, xgboost, catboost, feature-engine, mlflow<br>
+Hard-skills:  machine learning, modelos de propensão, monitoramento de sistemas de ML<br>
 
-#### [ Análise de algoritmos de aprendizado supervisionado em um problema de classificação de raças de cães e gatos ](https://github.com/BrunoRammon/gato-cachorro_classificacao_de_racas)<br>
-Neste projeto, foi realizado a análise de algoritmos de aprendizado supervisionado em um problema de classificação de raças de cães e gatos. Os algoritmos testados foram: KNN, árvore de decisão, Naive Bayes, Rede Neural. Além disso, foram testados alguns comitês de classificação: Bagging, Ada Boost, Random Forest e Stacking. Realizado em parceria com Kelmo.<br>
-Principais bibliotecas utilizadas: pandas, sklearn, skimage, scikit_posthocs, scipy, plotly <br>
-Hard-skills: classificação de imagens, treinamento e validação de algoritmos de ML, técnicas de amostragem, testes estatísticos (Friedman e Posthoc-Nemenyi)<br>
 
 #### [ Análise da situação do mercado de dados no Brasil: ](https://github.com/BrunoRammon/projeto_tecnicas_programacao_ii-)<br>
 Neste projeto, foi realizado a limpeza e tratamento (Outliers e dados faltantes) da base de dados relacionada ao mercado de dados no brasil. Além disso, foi feita a construção de dashboard para verificação de hipóteses levantadas sobre os dados. Em parceria com <a href="https://github.com/jorgeluizfigueira">@jorgeluizfigueira</a>.<br>
@@ -132,6 +134,10 @@ Bibliotecas utilizadas: Pandas, Streamlit, PostgreSQL, Psycopg2, SpotifyAPI, JSO
 Neste projeto, foi realizado a limpeza e tratamento (Outliers e dados faltantes) da base de dados de alugueis de imóveis. Além disso, foi feita análises univariada e bivariada dos dados visando extrair insights a partir base. Em parceria com <a href="https://github.com/jorgeluizfigueira">@jorgeluizfigueira</a>.<br>
 Bibliotecas utilizadas: Pandas, Statistics, Numpy
 
+#### [ Análise de algoritmos de aprendizado supervisionado em um problema de classificação de raças de cães e gatos ](https://github.com/BrunoRammon/gato-cachorro_classificacao_de_racas)<br>
+Neste projeto, foi realizado a análise de algoritmos de aprendizado supervisionado em um problema de classificação de raças de cães e gatos. Os algoritmos testados foram: KNN, árvore de decisão, Naive Bayes, Rede Neural. Além disso, foram testados alguns comitês de classificação: Bagging, Ada Boost, Random Forest e Stacking. Realizado em parceria com Kelmo.<br>
+Principais bibliotecas utilizadas: pandas, sklearn, skimage, scikit_posthocs, scipy, plotly <br>
+Hard-skills: classificação de imagens, treinamento e validação de algoritmos de ML, técnicas de amostragem, testes estatísticos (Friedman e Posthoc-Nemenyi)<br>
 
 #### [ Jogo da forca: ](https://github.com/BrunoRammon/hangman_game_project)<br>
 Neste projeto, foi desenvolvido um jogo da forca em python como parte dos requisitos do módulo de Lógica de programação do curso de Python e Dados (Let's Code by Ada). <br>
